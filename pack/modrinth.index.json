@@ -1,7 +1,7 @@
 {
 	"formatVersion": 1,
 	"name": "Goob Sink",
-	"versionId": "0.0.0-alpha.1",
+	"versionId": "0.0.0-alpha.2",
 	"game": "minecraft",
 	"dependencies": {
 		"minecraft": "1.20.1",
@@ -1592,6 +1592,19 @@
 			"hashes": {
 				"sha1": "89d1290ba28756b095dc1ba6ea85fe0296dc87ae",
 				"sha512": "456a116b3e873164e6f59d4dd38049f299e421b30a4d2e8aea0d8ba2d0e2a46a1d41fefa7a6c7df9d6b0c56936a1e5b61dac59f789a381f6187f7cf0d38335ac"
+			}
+		},
+		{
+			"path": "mods/yosbr-0.1.2.jar",
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": ["https://cdn.modrinth.com/data/WwbubTsV/versions/KMOzdYko/yosbr-0.1.2.jar"],
+			"fileSize": 17373,
+			"hashes": {
+				"sha1": "f0340e9c0bc95d67f3f3e9c1cd79b61054af11f9",
+				"sha512": "254f2225f6446523aa8c8274e83b31e27f3b2afc8fe4f490fb1b169dd518e10c7993acda5db0ab597474ddf9d69506b5e794242fada1e2f89ed7bf9d412a8f78"
 			}
 		}
 	]
