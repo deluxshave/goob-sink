@@ -8,6 +8,8 @@ resourcePacks:["vanilla","high_contrast","fabric","Moonlight Mods Dynamic Assets
 advancedItemTooltips:true
 pauseOnLostFocus:false
 tutorialStep:none
+key_key.saveToolbarActivator:key.keyboard.unknown
+key_key.loadToolbarActivator:key.keyboard.unknown
 key_key.estrogen.dash:key.keyboard.x
 key_accessories.key.open_accessories_screen:key.keyboard.unknown
 key_key.aether.open_accessories.desc:key.keyboard.unknown
