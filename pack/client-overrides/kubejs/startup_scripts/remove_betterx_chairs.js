@@ -60,11 +60,11 @@ for (const mod in AUTO_PREFIXES) {
 
 StartupEvents.modifyCreativeTab("betternether:blocks_tab", event => {
 	for (const item of items) {
-		if (item.startsWith("betternether:")) event.remove(item)
+		if (item.startsWith("betternether:")) event.remove(item);
 	}
 });
 StartupEvents.modifyCreativeTab("betterend:blocks_tab", event => {
 	for (const item of items) {
-		if (item.startsWith("betterend:")) event.remove(item)
+		if (item.startsWith("betterend:")) event.remove(item);
 	}
 });

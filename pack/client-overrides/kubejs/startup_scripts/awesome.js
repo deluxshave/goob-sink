@@ -1,1 +1,1 @@
-Platform.mods.wthit.name = "What Kind of Awesome Is This"
+Platform.mods.wthit.name = "What Kind of Awesome Is This";
