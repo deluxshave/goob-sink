@@ -4,7 +4,7 @@ fullscreen:true
 darkMojangStudiosBackground:true
 highContrast:true
 maxFps:260
-resourcePacks:["vanilla","high_contrast","fabric","Moonlight Mods Dynamic Assets","lambdabettergrass:default","continuity:default","continuity:glass_pane_culling_fix","minecraft:supporteatinganimation"]
+resourcePacks:["vanilla","high_contrast","fabric","Moonlight Mods Dynamic Assets","lambdabettergrass:default","continuity:default","continuity:glass_pane_culling_fix","minecraft:supporteatinganimation","file/Goob Sink"]
 advancedItemTooltips:true
 pauseOnLostFocus:false
 tutorialStep:none
