@@ -1,7 +1,7 @@
 {
 	"formatVersion": 1,
 	"name": "Goob Sink",
-	"versionId": "0.0.0-alpha.3",
+	"versionId": "0.0.0-alpha.4",
 	"game": "minecraft",
 	"dependencies": {
 		"minecraft": "1.20.1",
@@ -461,6 +461,19 @@
 			"hashes": {
 				"sha1": "38e3d368d97914966bdda5c6719f77c7f1f9a58d",
 				"sha512": "f426c9b12e0c196d859a99fce76a1fbce92efceb09915dda4b160520390a94427b8203186f2fb3e2469f0938599f332a57f52dbc25d89111e3f5de1174de0d16"
+			}
+		},
+		{
+			"path": "mods/accessories_tclayer-3.8.1-beta.14+1.20.1.jar",
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": ["https://cdn.modrinth.com/data/TkWgV1AW/versions/dfzKbUiE/accessories_tclayer-3.8.1-beta.14%2B1.20.1.jar"],
+			"fileSize": 203357,
+			"hashes": {
+				"sha1": "d64fa7d29699e5cb0849cede205a9a2841ffad9b",
+				"sha512": "caaeff26f344cf9503915844f598e25144a14dcca116d10f470fbffaa8681f6587ac109f47aed91d33c7d61214068062b96e56f3f15acf9c9801f09e654154b5"
 			}
 		},
 		{
@@ -1553,19 +1566,6 @@
 			"hashes": {
 				"sha1": "adef379e843b6788f0743b035e4658e043baf2f5",
 				"sha512": "0e94f6b240fe7afc93b1c314806edb6b8ffb5b7c2827051cb336bcb48c64e3e5e5199ca09fac1d3b9da58b1b85544a9e90af015fa73aa795a0bce04fb6d6048d"
-			}
-		},
-		{
-			"path": "mods/trinkets-3.7.2.jar",
-			"env": {
-				"client": "required",
-				"server": "required"
-			},
-			"downloads": ["https://cdn.modrinth.com/data/5aaWibi9/versions/AHxQGtuC/trinkets-3.7.2.jar"],
-			"fileSize": 238532,
-			"hashes": {
-				"sha1": "d58cc8759587f03f320f188972ca66baa788d008",
-				"sha512": "bedf97c87c5e556416410267108ad358b32806448be24ef8ae1a79ac63b78b48b9c851c00c845b8aedfc7805601385420716b9e65326fdab21340e8ba3cc4274"
 			}
 		},
 		{
