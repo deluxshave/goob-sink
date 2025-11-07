@@ -29,6 +29,8 @@ key_key.deeperdarker.transmit:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.jetpack.toggle_active.description:key.keyboard.g
 key_key.jetpack.toggle_hover.description:key.keyboard.h
+key_inventorymanagement.keybind.position_edit.player:key.keyboard.unknown
+key_inventorymanagement.keybind.position_edit.container:key.keyboard.unknown
 key_key.meow_keybind.meow:key.keyboard.grave.accent
 key_key.modmenu.open_menu:key.keyboard.unknown
 key_supplementaries.keybind.quiver:key.keyboard.v
