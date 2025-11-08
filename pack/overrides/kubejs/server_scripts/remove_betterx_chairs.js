@@ -1,4 +1,5 @@
 // remove chairs, stools, and bar stools from BetterNether and BetterEnd.
+// you should use Macaw's chairs instead.
 
 // unfortunately, there are no tags like #betternether:chairs or anything,
 // so we have to get creative...
