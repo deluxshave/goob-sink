@@ -23,7 +23,7 @@
 	#Determines that menu elements will align left if the menu's world preview is active, if true, this overrides 'Align menu elements left'
 	"Align menu elements left with world preview" = false
 	#Disables the Aether's accessories button from appearing in GUIs
-	"Disables the accessories button" = false
+	"Disables the accessories button" = true
 	#The y-coordinate of the accessories button in the inventory and curios menus
 	"Button y-coordinate in inventory menus" = 68
 	#Adds a button to the top right of the main menu screen to toggle between the Aether and vanilla menu
