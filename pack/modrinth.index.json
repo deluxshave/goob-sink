@@ -1,13 +1,26 @@
 {
 	"formatVersion": 1,
 	"name": "Goob Sink",
-	"versionId": "0.0.0-alpha.5",
+	"versionId": "0.0.0-alpha.6",
 	"game": "minecraft",
 	"dependencies": {
 		"minecraft": "1.20.1",
 		"fabric-loader": "0.17.3"
 	},
 	"files": [
+		{
+			"path": "mods/AdvancedLootInfo-fabric-1.20.1-1.4.0.jar",
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": ["https://cdn.modrinth.com/data/PEPVViac/versions/LTmFxhyU/AdvancedLootInfo-fabric-1.20.1-1.4.0.jar"],
+			"fileSize": 593852,
+			"hashes": {
+				"sha1": "d1f7ce7129127b8894d9daac4763a5efae8be476",
+				"sha512": "1f9f10bcbf241f1abc62d713890027dc9133f5672a67abed4044a9817f5fcbd800c7f185aac563ffba61c8376bfc521f672a58f094b810b0af4660704ca3f031"
+			}
+		},
 		{
 			"path": "mods/AmbientSounds_FABRIC_v6.1.11_mc1.20.1.jar",
 			"env": {
@@ -1254,6 +1267,19 @@
 			"hashes": {
 				"sha1": "95514294bad07fd977eac9faaa5997c4961810bd",
 				"sha512": "b61156cb403a73883ad2f574dd372ec087bbf2ae22a0de03dc2ee4af4ed9bf29fd328833c83f83ed84162028d1531e59320fe685f8b47e64f80cd41cce28b4db"
+			}
+		},
+		{
+			"path": "mods/mod-loading-screen-1.0.5.jar",
+			"env": {
+				"client": "required",
+				"server": "unsupported"
+			},
+			"downloads": ["https://cdn.modrinth.com/data/xAGJ6rQS/versions/dHmCqlFI/mod-loading-screen-1.0.5.jar"],
+			"fileSize": 1288845,
+			"hashes": {
+				"sha1": "c378690f841fdeee182aea9704c0a077268b731d",
+				"sha512": "e8a5b086fd90a00250dee49bbf3642dce71016712a803d9d13f6c998555091c51317658badcb809d2b6cab30f72d96e268557f50aef73550581ef4917cdb1920"
 			}
 		},
 		{
