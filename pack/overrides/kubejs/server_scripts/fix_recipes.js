@@ -59,7 +59,10 @@ ServerEvents.recipes(event => {
 	event.replaceInput(
 		{
 			input: "minecraft:water_bucket",
-			not: {mod: "create"}
+			not: {
+				mod: "create",
+				not: {type: "minecraft:crafting"}
+			}
 		},
 		"minecraft:water_bucket",
 		"#c:water_buckets"
