@@ -25,6 +25,11 @@ const ENTITY_WATER_BUCKETS = [
 	"naturalist:bass_bucket",
 	"naturalist:snail_bucket"
 ];
+const EDIBLE_EGGS = [
+	"minecraft:egg",
+	"#aether:moa_eggs",
+	"naturalist:duck_egg"
+];
 
 ServerEvents.tags("item", event => {
 	// register modded buckets under conventional tags
@@ -39,6 +44,11 @@ ServerEvents.tags("item", event => {
 	}
 	for (const item of ENTITY_WATER_BUCKETS) {
 		event.add("c:entity_water_buckets", item);
+	}
+
+	// register edible eggs tag
+	for (const item of EDIBLE_EGGS) {
+		event.add("goob_sink:edible_eggs", item);
 	}
 });
 
@@ -82,6 +92,18 @@ ServerEvents.recipes(event => {
 		"#c:milks"
 	);
 
+	// replace eggs in recipes to use our edible eggs tag
+	event.replaceInput(
+		{input: "minecraft:egg"},
+		"minecraft:egg",
+		"#goob_sink:edible_eggs"
+	);
+	event.replaceInput(
+		{input: "#balm:eggs"},
+		"#balm:eggs",
+		"#goob_sink:edible_eggs"
+	);
+
 	// add skyroot bucket versions of milk bottle/bucket conversions
 	event.shapeless(
 		Item.of("aether:skyroot_milk_bucket", 1),
@@ -101,5 +123,11 @@ ServerEvents.recipes(event => {
 		{id: "minecraft:cake"},
 		{id: "naturalist:cake"},
 		{mod: "aether", output: "minecraft:cake"}
+	]);
+
+	// remove redundant pumpkin pie recipes
+	event.remove([
+		{id: "naturalist:pumpkin_pie"},
+		{id: "aether:moa_egg_pumpkin_pie"}
 	]);
 });
