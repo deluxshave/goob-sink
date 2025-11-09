@@ -9,7 +9,7 @@
 	"Enables green sunrise/sunset" = false
 [Gui]
 	#The y-coordinate of the perks button layout when in the pause menu
-	"Layout y-coordinate in pause menu" = 0
+	"Layout y-coordinate in pause menu" = -16384
 	#Enables the overlay at the top of the screen for the Hammer of Kingbdogz' cooldown
 	"Enables Hammer of Kingbdogz' cooldown overlay" = true
 	#The y-coordinate of the Ascending to the Aether and Descending from the Aether text in loading screens
@@ -19,7 +19,7 @@
 	#The y-coordinate of the accessories button in the accessories menu
 	"Button y-coordinate in accessories menu" = 68
 	#The x-coordinate of the perks button layout when in the pause menu
-	"Layout x-coordinate in pause menu" = -116
+	"Layout x-coordinate in pause menu" = 0
 	#Determines that menu elements will align left if the menu's world preview is active, if true, this overrides 'Align menu elements left'
 	"Align menu elements left with world preview" = false
 	#Disables the Aether's accessories button from appearing in GUIs
