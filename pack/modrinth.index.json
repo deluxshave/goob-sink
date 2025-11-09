@@ -1,7 +1,7 @@
 {
 	"formatVersion": 1,
 	"name": "Goob Sink",
-	"versionId": "0.0.0-alpha.6",
+	"versionId": "0.0.0-alpha.7",
 	"game": "minecraft",
 	"dependencies": {
 		"minecraft": "1.20.1",
@@ -113,16 +113,16 @@
 			}
 		},
 		{
-			"path": "mods/FarmersDelight-1.20.1-2.4.0+refabricated.jar",
+			"path": "mods/FarmersDelight-1.20.1-2.4.1+refabricated.jar",
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
-			"downloads": ["https://cdn.modrinth.com/data/7vxePowz/versions/PB4pwRax/FarmersDelight-1.20.1-2.4.0%2Brefabricated.jar"],
-			"fileSize": 8024496,
+			"downloads": ["https://cdn.modrinth.com/data/7vxePowz/versions/Z8UNayLO/FarmersDelight-1.20.1-2.4.1%2Brefabricated.jar"],
+			"fileSize": 8056758,
 			"hashes": {
-				"sha1": "62c2e4c5fd5d40c1d1082c49c6a05c292d95e247",
-				"sha512": "298a416f5718926dfb825725705f3baa2b1b1ae0d8462df3fa0ca0f9d9f681570ef431b9ec37e0cdb52c82c195c6d010671a5e2b235fa182c4bcbf9c2978db79"
+				"sha1": "b8dded252730b2d47655813dde9d743785c0b107",
+				"sha512": "4fa3d8756af6df2135f19b6b78972b098e75fbfb189252288f782ad00c2a56ce6b12320e8fe8975c250f0cc001daeafb24a91bb1c09717c01302225807599450"
 			}
 		},
 		{
@@ -1166,16 +1166,16 @@
 			}
 		},
 		{
-			"path": "mods/mcw-furniture-3.3.0-mc1.20.1fabric.jar",
+			"path": "mods/mcw-furniture-3.4.0-mc1.20.1fabric.jar",
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
-			"downloads": ["https://cdn.modrinth.com/data/dtWC90iB/versions/7aTbV3Sq/mcw-furniture-3.3.0-mc1.20.1fabric.jar"],
-			"fileSize": 1910842,
+			"downloads": ["https://cdn.modrinth.com/data/dtWC90iB/versions/YftyhGAo/mcw-furniture-3.4.0-mc1.20.1fabric.jar"],
+			"fileSize": 2099529,
 			"hashes": {
-				"sha1": "913aa37e6c694a725044a1dbbff46f9552877655",
-				"sha512": "6e9adf5dc3005a2e7fa5ebb53500bb7735ee665e1e2c77b3dc2d35c0a55ed3ef8385a6785356572bb4576940c13dc7d63f0afbea9361b97363eafa2ba7dc4876"
+				"sha1": "df0816262e55071476e948c6643720ede3b73773",
+				"sha512": "95d9480f6c9a515a8af94c310821d16fd147bce445f707e514f499cc5d4ba87315c2ab4e6f128066a1958c5a00d87bd46faaa53e8c86c6866c65cb3e811b3c39"
 			}
 		},
 		{
@@ -1569,16 +1569,16 @@
 			}
 		},
 		{
-			"path": "mods/tectonic-3.0.16-fabric-1.20.1.jar",
+			"path": "mods/tectonic-3.0.17-fabric-1.20.1.jar",
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
-			"downloads": ["https://cdn.modrinth.com/data/lWDHr9jE/versions/EInFBe6X/tectonic-3.0.16-fabric-1.20.1.jar"],
-			"fileSize": 313298,
+			"downloads": ["https://cdn.modrinth.com/data/lWDHr9jE/versions/mz3wlQKd/tectonic-3.0.17-fabric-1.20.1.jar"],
+			"fileSize": 319868,
 			"hashes": {
-				"sha1": "00e38529a5e6a4904c0493fae947fd07cd4f39a4",
-				"sha512": "457851ac92a3e66ae33064d6b15e793b00d81d385cda6fa326158237e6c97343d6c8d7ee2659137b232dffb899313ffa0953f1a5fa5220c0155e2a7dbc3b4389"
+				"sha1": "5bcc0c5a21f543856082f52588e6365e6a8b02ef",
+				"sha512": "9a11047ed0e981bb60c230d00ec5d88bf3968119df808e9c55678cab94f8fa5005cdd916799dfd641e0ad60a1b937b4554c71c19d7b3d0f61b94f5135cbf377a"
 			}
 		},
 		{
@@ -1621,16 +1621,16 @@
 			}
 		},
 		{
-			"path": "mods/wthit-1.20.1-fabric-8.19.1.jar",
+			"path": "mods/wthit-1.20.1-fabric-8.19.2.jar",
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
-			"downloads": ["https://cdn.modrinth.com/data/6AQIaxuO/versions/kK5C4nuW/wthit-1.20.1-fabric-8.19.1.jar"],
-			"fileSize": 829566,
+			"downloads": ["https://cdn.modrinth.com/data/6AQIaxuO/versions/BWyt0Aak/wthit-1.20.1-fabric-8.19.2.jar"],
+			"fileSize": 831596,
 			"hashes": {
-				"sha1": "89d1290ba28756b095dc1ba6ea85fe0296dc87ae",
-				"sha512": "456a116b3e873164e6f59d4dd38049f299e421b30a4d2e8aea0d8ba2d0e2a46a1d41fefa7a6c7df9d6b0c56936a1e5b61dac59f789a381f6187f7cf0d38335ac"
+				"sha1": "2cbf2c8d025f759753c848360445c7c191e5d969",
+				"sha512": "fe2a042c09b42811132e466f4d8b0b6481516f615400db3382ac177b56b5b85662d09a3adc57ebdf059f3e629f74102826bc42d7affa6079ba96263f3ac5170f"
 			}
 		},
 		{

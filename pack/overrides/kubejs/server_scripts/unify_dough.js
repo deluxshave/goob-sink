@@ -9,6 +9,7 @@ ServerEvents.tags("item", event => {
 ServerEvents.recipes(event => {
 	event.remove([
 		{input: "farmersdelight:wheat_dough"},
-		{output: "farmersdelight:wheat_dough"}
+		{output: "farmersdelight:wheat_dough"},
+		{id: "farmersdelight:wheat_dough_from_water"} // special recipe
 	]);
 });
