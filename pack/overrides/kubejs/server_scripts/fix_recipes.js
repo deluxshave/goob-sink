@@ -71,7 +71,10 @@ ServerEvents.recipes(event => {
 			input: "minecraft:water_bucket",
 			not: {
 				mod: "create",
-				not: {type: "minecraft:crafting"}
+				not: [
+					{type: "minecraft:crafting_shaped"},
+					{type: "minecraft:crafting_shapeless"}
+				]
 			}
 		},
 		"minecraft:water_bucket",
@@ -83,7 +86,10 @@ ServerEvents.recipes(event => {
 			not: [
 				{
 					mod: "create",
-					not: {type: "minecraft:crafting"}
+					not: [
+						{type: "minecraft:crafting_shaped"},
+						{type: "minecraft:crafting_shapeless"}
+					]
 				},
 				{id: "farmersdelight:milk_bottle"}
 			]
