@@ -1,7 +1,7 @@
 {
 	"formatVersion": 1,
 	"name": "Goob Sink",
-	"versionId": "0.0.0-alpha.8",
+	"versionId": "0.0.0-alpha.9",
 	"game": "minecraft",
 	"dependencies": {
 		"minecraft": "1.20.1",
