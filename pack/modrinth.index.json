@@ -1,7 +1,7 @@
 {
 	"formatVersion": 1,
 	"name": "Goob Sink",
-	"versionId": "0.0.0-alpha.10",
+	"versionId": "0.0.0-alpha.11",
 	"game": "minecraft",
 	"dependencies": {
 		"minecraft": "1.20.1",
@@ -698,6 +698,19 @@
 			}
 		},
 		{
+			"path": "mods/collective-1.20.1-8.13.jar",
+			"env": {
+				"client": "required",
+				"server": "unsupported"
+			},
+			"downloads": ["https://cdn.modrinth.com/data/e0M1UDsY/versions/9fUQXa48/collective-1.20.1-8.13.jar"],
+			"fileSize": 665169,
+			"hashes": {
+				"sha1": "74b917dd99cd97b2f0480628a1b56958f5e0f5ad",
+				"sha512": "bc6136fbec7447ef3d7ecd150dc3f531f7980e8dea95c638cbb06ddef1f28aeadd72a214baff0232fd2fd28f931061b7571f4f1fb7acf6fc1c08965ea481cfda"
+			}
+		},
+		{
 			"path": "mods/continuity-3.0.0+1.20.1.jar",
 			"env": {
 				"client": "required",
@@ -1007,6 +1020,19 @@
 			"hashes": {
 				"sha1": "5608d18e362a4c1263c2599735d1891d8be8cc26",
 				"sha512": "cf0f40b02ce712610984c486ed6c7fa0c46f5926da0f8a4d329622dfaadf96a90bd1c2f9afdfc08082a66fb6e9dbf4d6853a9405f16c856bf0b55c62efcbb0a6"
+			}
+		},
+		{
+			"path": "mods/hidehands-1.20.1-4.5.jar",
+			"env": {
+				"client": "required",
+				"server": "unsupported"
+			},
+			"downloads": ["https://cdn.modrinth.com/data/HIhV91PH/versions/7HtcRDxN/hidehands-1.20.1-4.5.jar"],
+			"fileSize": 23495,
+			"hashes": {
+				"sha1": "cc7cc21d5ad181350f3a72098912aeb2c2fbbd15",
+				"sha512": "62d257185001409b97776eda59ee2ab21965845536d925a9fc07efc7976a11523a79f2ac91f83724b65cd777183d2cbd82c0b94db7b8db459d708de77d16d754"
 			}
 		},
 		{
