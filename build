@@ -1,5 +1,8 @@
 #!/bin/bash
 
+! command -v zip &> /dev/null && exit 17
+! command -v jq  &> /dev/null && exit 18
+
 cd "$(dirname "$0")"
 
 mkdir -p output
