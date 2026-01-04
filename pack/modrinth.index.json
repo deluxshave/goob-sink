@@ -1,7 +1,7 @@
 {
 	"formatVersion": 1,
 	"name": "Goob Sink",
-	"versionId": "0.0.0-alpha.13",
+	"versionId": "0.0.0-alpha.14",
 	"game": "minecraft",
 	"dependencies": {
 		"minecraft": "1.20.1",
@@ -188,6 +188,19 @@
 			"hashes": {
 				"sha1": "f46c4abec3d2d9a244862b72aadb0773a9125ccd",
 				"sha512": "f25876d7543c07632fce1c623e43a91b3fb4004876fc8fa026732217e9231260255291179643cb9cafb13a266be0e0f17347f133a8cf7fbd74645580c7b44084"
+			}
+		},
+		{
+			"path": "mods/RoguelikeDungeons-2.1.0-1.20.1-fabric.jar",
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": ["https://cdn.modrinth.com/data/MFpvbNGE/versions/3cXBjCfG/RoguelikeDungeons-2.1.0-1.20.1-fabric.jar"],
+			"fileSize": 697709,
+			"hashes": {
+				"sha1": "236c51da666d5c1aef11631cb307163b06b096cf",
+				"sha512": "13cd2b9c39cdb3badb29c5269f8e565c407d3545789f3afbee689dbc9a506e50bd14ddbce949cb32a45b24a7812a14015751044991e0511939a2f2eb0abc422c"
 			}
 		},
 		{
@@ -734,6 +747,19 @@
 			"hashes": {
 				"sha1": "dbf69b9ed007259a38f058e96ee203329a24859c",
 				"sha512": "73ff936492c857ae411c10cae0194d64a56b98a1a7a9478ca13fe2a6e3ee155e327cf4590a3888aaa671561b4cf74de97f2f44224d7981b03a546e36236c3de2"
+			}
+		},
+		{
+			"path": "mods/create_enchantment_industry-1.2.16.jar",
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": ["https://cdn.modrinth.com/data/AEZO385x/versions/SI0RzkGk/create_enchantment_industry-1.2.16.jar"],
+			"fileSize": 520093,
+			"hashes": {
+				"sha1": "c1153315e3d0e7d216ca3179e483fe8b9f794433",
+				"sha512": "c9b9c8d03c763aa6e378d20534e8ae25861e6895b8f2f301108ae7271a6bfaceae306f1b45fbf79db5aa05a0164efc57db5dba37be54cc82dc3a652d6f6d5c3d"
 			}
 		},
 		{
