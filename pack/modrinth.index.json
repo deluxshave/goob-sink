@@ -1,7 +1,7 @@
 {
 	"formatVersion": 1,
 	"name": "Goob Sink",
-	"versionId": "0.0.0-alpha.14",
+	"versionId": "0.0.0-alpha.15",
 	"game": "minecraft",
 	"dependencies": {
 		"minecraft": "1.20.1",
@@ -162,6 +162,19 @@
 			"hashes": {
 				"sha1": "e4afd980e788f1861d8a8263bc700312667df977",
 				"sha512": "fcd11f20ab1b374a219e915156c8439f2d6fcabb060406f4d0a11392f945228e1c6e375f8e9e3048ac01c3a351c88bde4327e1f958bfd5ef4ab81c178f9e35da"
+			}
+		},
+		{
+			"path": "mods/Paxi-1.20-Fabric-4.0.jar",
+			"env": {
+				"client": "required",
+				"server": "unsupported"
+			},
+			"downloads": ["https://cdn.modrinth.com/data/CU0PAyzb/versions/UVPLKCqf/Paxi-1.20-Fabric-4.0.jar"],
+			"fileSize": 225237,
+			"hashes": {
+				"sha1": "21ef7cc460c6c1fd15443a69f77b165a4096b135",
+				"sha512": "81a9918d6730db5d9b1b1eae3a7104ba4d83557aa90308b9acc1026cae1789265b7ebde9c6a573ebaca91bae6e0988f069f442f4d18d63f1c46909a758080e9e"
 			}
 		},
 		{

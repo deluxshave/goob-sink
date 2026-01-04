@@ -1,5 +1,4 @@
 {
-	"_credit": "model from version 1.1 of Shield Corrections by D3SG4MER24",
 	"parent": "builtin/entity",
 	"gui_light": "front",
 	"textures": {"particle": "block/dark_oak_planks"},
