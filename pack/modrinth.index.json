@@ -308,19 +308,6 @@
 			}
 		},
 		{
-			"path": "mods/XaerosWorldMap_1.40.2_Fabric_1.20.jar",
-			"env": {
-				"client": "required",
-				"server": "required"
-			},
-			"downloads": ["https://cdn.modrinth.com/data/NcUtCpym/versions/yckp3FUK/XaerosWorldMap_1.40.2_Fabric_1.20.jar"],
-			"fileSize": 1402037,
-			"hashes": {
-				"sha1": "8ccf6075e02d47b1ad72a1a733536287cc7b7f12",
-				"sha512": "37ce31f42c6b1f8c4b1a9b7a5bf17a4533aeb8a22c1c84e879beecb7ba7e0ec2cc6e5430e2119f350921bbb637fbc38cb54b09313ebd6004f6a13fa43d4a5e61"
-			}
-		},
-		{
 			"path": "mods/YungsApi-1.20-Fabric-4.0.6.jar",
 			"env": {
 				"client": "required",
@@ -1696,6 +1683,19 @@
 			"hashes": {
 				"sha1": "749f43d9686eece78c3538ffb1caf350ceb3a923",
 				"sha512": "a19fc789f42d1362d0ddef791f03d68d9916989ed9fb15f3c61f0e2c14ef5860f94d755864ac928168b27e50b3e74738b9436a124ed33e8ff7e88cc9f5ca9785"
+			}
+		},
+		{
+			"path": "mods/xaeroworldmap-fabric-1.20.1-1.40.6.jar",
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": ["https://cdn.modrinth.com/data/NcUtCpym/versions/qNqsa3I3/xaeroworldmap-fabric-1.20.1-1.40.6.jar"],
+			"fileSize": 1402552,
+			"hashes": {
+				"sha1": "6477dd04fa180ed3ed1f342ea37c3f2ba4f500b8",
+				"sha512": "a29a6dfdd537425f9729c3f7acb5a1766d02d11919fceb988a82c702bdedf46e90b9ffffc417b179b43625395e48e2a5e350c6117358b19a571f46e06c767346"
 			}
 		},
 		{
