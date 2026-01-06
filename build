@@ -12,4 +12,4 @@ cd pack
 NAME=$(jq -r ".name" modrinth.index.json)
 VERSION=$(jq -r ".versionId" modrinth.index.json)
 
-zip -FSr9 "../output/${NAME} v${VERSION}.zip" .
+zip -FSr9 "../output/${NAME} v${VERSION}.mrpack" .
