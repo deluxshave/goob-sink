@@ -204,16 +204,16 @@
 			}
 		},
 		{
-			"path": "mods/PuzzlesLib-v8.0.15-1.20.1-Fabric.jar",
+			"path": "mods/PuzzlesLib-v8.1.33-1.20.1-Fabric.jar",
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
-			"downloads": ["https://cdn.modrinth.com/data/QAGBst4M/versions/wfZ1WUlB/PuzzlesLib-v8.0.15-1.20.1-Fabric.jar"],
-			"fileSize": 692564,
+			"downloads": ["https://cdn.modrinth.com/data/QAGBst4M/versions/N8gFdljq/PuzzlesLib-v8.1.33-1.20.1-Fabric.jar"],
+			"fileSize": 1084397,
 			"hashes": {
-				"sha1": "2966f77f7cbc6c40c781bad5e12aaade5623c64a",
-				"sha512": "cad899693205f24f03aff92357aedc1560c1dd83f7ae421ab1b2a5bd53193f5b8f7b895547197e2187c930773811ae15d86cd2753f51fed53fa9cbc9a9a92c23"
+				"sha1": "13282e818c9b5d20ba9f50949e3776d678d6926d",
+				"sha512": "86e57fcf41a1b1f6f33375a10e3eba5c78b7e634b5c694d9082e7f56f77aa6339a5d0bbfe4e50978154e3246a70d5a4a7b6570b56fd70ae41033f870de3178d2"
 			}
 		},
 		{
@@ -594,16 +594,16 @@
 			}
 		},
 		{
-			"path": "mods/balm-fabric-1.20.1-7.3.37.jar",
+			"path": "mods/balm-fabric-1.20.1-7.3.38.jar",
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
-			"downloads": ["https://cdn.modrinth.com/data/MBAkmtvl/versions/qCk04klC/balm-fabric-1.20.1-7.3.37.jar"],
-			"fileSize": 608287,
+			"downloads": ["https://cdn.modrinth.com/data/MBAkmtvl/versions/TSihd8MJ/balm-fabric-1.20.1-7.3.38.jar"],
+			"fileSize": 609150,
 			"hashes": {
-				"sha1": "f152937a8064f70ec65667e29d18ac8830bf6028",
-				"sha512": "2fddc3053091ec9e9939f873f01a06752698adf56b0405df17c13e1f6359daa009dc8e194bb9591b172cc013900b9891b52993b779efb338b5d977b4099ae2da"
+				"sha1": "e5946a840a03ffc0f33d6f4bc24341651f2d3ad5",
+				"sha512": "fc3212781606186b881a956846d262fbe7fc068668b601749aa965b341cb20fb28e28da7591a258e4fa184d3931ef4c5e9bf7c298c8450ccd367d0be0510e8fa"
 			}
 		},
 		{
@@ -1699,16 +1699,16 @@
 			}
 		},
 		{
-			"path": "mods/wthit-1.20.1-fabric-8.19.3.jar",
+			"path": "mods/wthit-1.20.1-fabric-8.20.0.jar",
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
-			"downloads": ["https://cdn.modrinth.com/data/6AQIaxuO/versions/ggzx8Fxp/wthit-1.20.1-fabric-8.19.3.jar"],
-			"fileSize": 831830,
+			"downloads": ["https://cdn.modrinth.com/data/6AQIaxuO/versions/t5ce0UuC/wthit-1.20.1-fabric-8.20.0.jar"],
+			"fileSize": 839028,
 			"hashes": {
-				"sha1": "9c4936e6bd6ef1c124ee20a1c04bc362eef36233",
-				"sha512": "c34d7115328edd14aef3e8c3ad688accffc30340e6567ac6892d85c5b47357ad654ac1885c013f1b6c1e4b9e8f39121160359088e1bf08004ef7429c17d575fc"
+				"sha1": "d544e02c2a45f5b08a1b823a8cd20df6a320c99c",
+				"sha512": "36634cb6bca3dbf36dd4661fb87afe6d195fc0d0de8a90121ca26d022c469139ca9080bf0c69db524fe70e3a23e389c8e6f012cdcf027be2173fe1e11d037681"
 			}
 		},
 		{
