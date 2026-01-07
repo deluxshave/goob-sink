@@ -48,6 +48,19 @@
 			}
 		},
 		{
+			"path": "mods/BetterCompatibilityChecker-fabric-4.0.1+mc1.20.1.jar",
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": ["https://cdn.modrinth.com/data/KJhXPbHQ/versions/gatP97QZ/BetterCompatibilityChecker-fabric-4.0.1%2Bmc1.20.1.jar"],
+			"fileSize": 26039,
+			"hashes": {
+				"sha1": "0c4dda5c9ebe5fcedd829996a272009f3122630a",
+				"sha512": "b6b042dde4d58d858dc7dbad95c40020ad1f9e54e6c078f4534b1df1253f3f339e32d55d83f3796030b0f11a495cfcf872ef5c48750591121ce4bb32147709f4"
+			}
+		},
+		{
 			"path": "mods/BiomesOPlenty-fabric-1.20.1-19.0.0.96.jar",
 			"env": {
 				"client": "required",
