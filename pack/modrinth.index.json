@@ -1,7 +1,7 @@
 {
 	"formatVersion": 1,
 	"name": "Goob Sink",
-	"versionId": "0.0.0-alpha.16",
+	"versionId": "0.0.0-alpha.17",
 	"game": "minecraft",
 	"dependencies": {
 		"minecraft": "1.20.1",
@@ -1361,16 +1361,16 @@
 			}
 		},
 		{
-			"path": "mods/moonlight-1.20-2.16.20-fabric.jar",
+			"path": "mods/moonlight-1.20-2.16.16-fabric.jar",
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
-			"downloads": ["https://cdn.modrinth.com/data/twkfQtEc/versions/ExlBVsRs/moonlight-1.20-2.16.20-fabric.jar"],
-			"fileSize": 1332883,
+			"downloads": ["https://cdn.modrinth.com/data/twkfQtEc/versions/1yJlkP4n/moonlight-1.20-2.16.16-fabric.jar"],
+			"fileSize": 1310017,
 			"hashes": {
-				"sha1": "b19e8f909433add7e4fddd739160c41a0a80ce60",
-				"sha512": "2a3f1a43e6c11e266b00ba16c60f219ed8a9c950fea3ff24496613fa6782d3008f60dfc237185c335a2b6b01578fcb5ad10a9347a62dff99d8b8e2a199bef7db"
+				"sha1": "1c87cd8e6cf95c2de82d1a14fa509d47ba6e547b",
+				"sha512": "007d918889a84d9d3a40b503bce48fa73cb446bd08b29da73578426dbb2dee4552cc191fe772e4f40bcaf2a3165980a02e7660f0438a2742af06700eb4bb4069"
 			}
 		},
 		{
