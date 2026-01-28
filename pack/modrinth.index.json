@@ -1,7 +1,7 @@
 {
 	"formatVersion": 1,
 	"name": "Goob Sink",
-	"versionId": "0.0.0-alpha.17",
+	"versionId": "0.0.0-alpha.18",
 	"game": "minecraft",
 	"dependencies": {
 		"minecraft": "1.20.1",
@@ -1202,6 +1202,19 @@
 			"hashes": {
 				"sha1": "c5e75450633aa9f79f2023e897c2726ba5f8d808",
 				"sha512": "d8e840907e3f7326c1e6605b65c46eb4e920e4790ab4074884ad21913f0c097dcacf4b813091239eb58bd65b7c75b96d04bb4df6eec830f89a21e217e3c0fdec"
+			}
+		},
+		{
+			"path": "mods/lootjs-fabric-1.20.1-2.13.0.jar",
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": ["https://cdn.modrinth.com/data/fJFETWDN/versions/teWjqlCt/lootjs-fabric-1.20.1-2.13.0.jar"],
+			"fileSize": 196741,
+			"hashes": {
+				"sha1": "08d6753c41afbeadb44c3c1d35b78a6248c8cc74",
+				"sha512": "b70d26f1b3bb3f436255f84d5e064c1ed38f7efd4850b91c08e14d08e520ede579e9675902db4112c664fbad9a5e3b6d59bdf0808d63ff30e790e6cc8a951864"
 			}
 		},
 		{
