@@ -36,7 +36,6 @@ The mods are preconfigured and their keybinds are set to not conflict. You can s
 ### Technology
 
 - [Create](https://modrinth.com/mod/create-fabric) & various addons
-- [Tom's Simple Storage](https://modrinth.com/mod/toms-storage)
 
 ### Decoration
 

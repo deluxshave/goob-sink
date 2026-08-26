@@ -1,7 +1,7 @@
 {
 	"formatVersion": 1,
 	"name": "Goob Sink",
-	"versionId": "0.0.0-alpha.18",
+	"versionId": "0.0.0-alpha.19",
 	"game": "minecraft",
 	"dependencies": {
 		"minecraft": "1.20.1",
@@ -763,19 +763,6 @@
 			}
 		},
 		{
-			"path": "mods/copycats-2.2.2+mc.1.20.1-fabric.jar",
-			"env": {
-				"client": "required",
-				"server": "required"
-			},
-			"downloads": ["https://cdn.modrinth.com/data/UT2M39wf/versions/WYmjbo0H/copycats-2.2.2%2Bmc.1.20.1-fabric.jar"],
-			"fileSize": 1933455,
-			"hashes": {
-				"sha1": "bee12467cf7cd605ad79fa65a5fb53625ac8c1fa",
-				"sha512": "21c4409d5f453a29d161b34ebed3b6253953529fbfcac4651fd4476059a99f6d2244486345b69a46dc9b3a1ebdfd39cd0ef0c1b8b814a95b3cf7c8465471eee1"
-			}
-		},
-		{
 			"path": "mods/create-fabric-0.5.1-j-build.1631+mc1.20.1.jar",
 			"env": {
 				"client": "required",
@@ -799,45 +786,6 @@
 			"hashes": {
 				"sha1": "c1153315e3d0e7d216ca3179e483fe8b9f794433",
 				"sha512": "c9b9c8d03c763aa6e378d20534e8ae25861e6895b8f2f301108ae7271a6bfaceae306f1b45fbf79db5aa05a0164efc57db5dba37be54cc82dc3a652d6f6d5c3d"
-			}
-		},
-		{
-			"path": "mods/create_jetpack-fabric-4.3.0.jar",
-			"env": {
-				"client": "required",
-				"server": "required"
-			},
-			"downloads": ["https://cdn.modrinth.com/data/UbFnAd4l/versions/lKhjIqZR/create_jetpack-fabric-4.3.0.jar"],
-			"fileSize": 217452,
-			"hashes": {
-				"sha1": "1c9851a00d1049900ae79a7127ffe5fd49b30520",
-				"sha512": "e8110147fc90666467e837403316fdffb04d72ac0c28572945519b8f0b36c7fab9a2704f934718267c6e165213760b66bcc04e1f0d217cccb9bac83eabaec082"
-			}
-		},
-		{
-			"path": "mods/create_radar-0.1.1+1.20.1.jar",
-			"env": {
-				"client": "required",
-				"server": "required"
-			},
-			"downloads": ["https://cdn.modrinth.com/data/IUlhKVP4/versions/FcTcjseq/create_radar-0.1.1%2B1.20.1.jar"],
-			"fileSize": 2286447,
-			"hashes": {
-				"sha1": "6521b6704544f4854040407f7cccb65e999289b8",
-				"sha512": "935df653558596cee66a6af9faecfbeee140fc69affc96f3aa8c9514a00fe1049892e7aa3a5311dfddb0a17e1758c77946a1aa324d54238835b40a879a909fa7"
-			}
-		},
-		{
-			"path": "mods/createbigcannons-5.8.2-mc.1.20.1-fabric.jar",
-			"env": {
-				"client": "required",
-				"server": "required"
-			},
-			"downloads": ["https://cdn.modrinth.com/data/GWp4jCJj/versions/bIFKELd8/createbigcannons-5.8.2-mc.1.20.1-fabric.jar"],
-			"fileSize": 6245365,
-			"hashes": {
-				"sha1": "ba8dbabbc013f37844e05add7b7256641c4ee62f",
-				"sha512": "f4bcc2293dbe1003b79888e616f8900796354733eb37511fc0d4edfd63077f57c82dd592f236ecb384fca182aadb30e757f5b6f949b20efa31cb43fd0dac7903"
 			}
 		},
 		{
@@ -1072,19 +1020,6 @@
 			"hashes": {
 				"sha1": "5608d18e362a4c1263c2599735d1891d8be8cc26",
 				"sha512": "cf0f40b02ce712610984c486ed6c7fa0c46f5926da0f8a4d329622dfaadf96a90bd1c2f9afdfc08082a66fb6e9dbf4d6853a9405f16c856bf0b55c62efcbb0a6"
-			}
-		},
-		{
-			"path": "mods/hidehands-1.20.1-4.5.jar",
-			"env": {
-				"client": "required",
-				"server": "unsupported"
-			},
-			"downloads": ["https://cdn.modrinth.com/data/HIhV91PH/versions/7HtcRDxN/hidehands-1.20.1-4.5.jar"],
-			"fileSize": 23495,
-			"hashes": {
-				"sha1": "cc7cc21d5ad181350f3a72098912aeb2c2fbbd15",
-				"sha512": "62d257185001409b97776eda59ee2ab21965845536d925a9fc07efc7976a11523a79f2ac91f83724b65cd777183d2cbd82c0b94db7b8db459d708de77d16d754"
 			}
 		},
 		{
@@ -1683,19 +1618,6 @@
 			"hashes": {
 				"sha1": "5bcc0c5a21f543856082f52588e6365e6a8b02ef",
 				"sha512": "9a11047ed0e981bb60c230d00ec5d88bf3968119df808e9c55678cab94f8fa5005cdd916799dfd641e0ad60a1b937b4554c71c19d7b3d0f61b94f5135cbf377a"
-			}
-		},
-		{
-			"path": "mods/toms_storage_fabric-1.20-1.7.1.jar",
-			"env": {
-				"client": "required",
-				"server": "required"
-			},
-			"downloads": ["https://cdn.modrinth.com/data/XZNI4Cpy/versions/nvqkBIsD/toms_storage_fabric-1.20-1.7.1.jar"],
-			"fileSize": 1537265,
-			"hashes": {
-				"sha1": "adef379e843b6788f0743b035e4658e043baf2f5",
-				"sha512": "0e94f6b240fe7afc93b1c314806edb6b8ffb5b7c2827051cb336bcb48c64e3e5e5199ca09fac1d3b9da58b1b85544a9e90af015fa73aa795a0bce04fb6d6048d"
 			}
 		},
 		{
