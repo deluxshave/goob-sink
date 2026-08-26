@@ -19,7 +19,6 @@ key_key.deeperdarker.transmit:key.keyboard.unknown
 key_key.meow_keybind.meow:key.keyboard.grave.accent
 key_keybind.sophisticatedbackpacks.inventory_interaction:key.keyboard.n
 key_keybind.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.world.1
-key_key.toms_storage.open_terminal:key.keyboard.j
 key_gui.xaero_minimap_settings:key.keyboard.unknown
 key_gui.xaero_zoom_in:key.keyboard.equal
 key_gui.xaero_zoom_out:key.keyboard.minus
