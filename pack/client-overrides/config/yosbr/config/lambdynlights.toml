@@ -155,45 +155,27 @@ mode = "fancy"
 				rotten_tomato = true
 
 			[light_sources.settings.entities.crittersandcompanions]
-				dragonfly = true
+				snail = true
 				jumping_spider = true
-				leaf_insect = true
 				shima_enaga = true
+				mud_ball = true
+				roly_poly = true
+				ladybug = true
+				weevil = true
+				otter = true
+				dragonfly = true
+				stick_bug = true
+				leaf_insect = true
+				stag_beetle = true
 				koi_fish = true
 				dumbo_octopus = true
 				grappling_hook = true
 				ferret = true
-				otter = true
 				red_panda = true
 				sea_bunny = true
 
 			[light_sources.settings.entities.estrogen]
 				moth = true
-
-			[light_sources.settings.entities.createbigcannons]
-				smoke_emitter = true
-				ap_shot = true
-				drop_mortar_shell = true
-				primed_propellant = true
-				smoke_shell = true
-				cannon_carriage = true
-				gas_cloud = true
-				pitch_contraption = true
-				traffic_cone = true
-				flak_autocannon = true
-				ap_shell = true
-				shot = true
-				ap_autocannon = true
-				shrapnel_burst = true
-				fluid_blob_burst = true
-				fluid_shell = true
-				flak_burst = true
-				mortar_stone = true
-				shrapnel_shell = true
-				grapeshot_burst = true
-				machine_gun_bullet = true
-				bag_of_grapeshot = true
-				he_shell = true
 
 			[light_sources.settings.entities.sophisticatedbackpacks]
 				everlasting_backpack_item = true
@@ -211,13 +193,26 @@ mode = "fancy"
 			[light_sources.settings.entities.deeperdarker]
 				shattered = true
 				sludge = true
+				overseer = true
+				potty = true
 				stalker = true
+				acid_sprite = true
+				overcast_vessel = true
 				shriek_worm = true
+				overcast_vessel_item = true
+				overseer_laser = true
+				chest_boat = true
+				boat = true
+				pot = true
+				icicle_shard = true
 				sculk_centipede = true
 				sculk_leech = true
-				chest_boat = true
+				floater = true
+				overseer_crystal = true
+				potter = true
 				angler_fish = true
-				boat = true
+				bubblox = true
+				blooming_golem = true
 				sculk_snapper = true
 
 			[light_sources.settings.entities.creeperoverhaul]
@@ -238,6 +233,7 @@ mode = "fancy"
 				mushroom_creeper = true
 
 			[light_sources.settings.entities.mcwfurnitures]
+				couch_entity = true
 				chair_entity = true
 
 			[light_sources.settings.entities.aether]
@@ -357,6 +353,7 @@ mode = "fancy"
 				carriage_contraption = true
 				seat = true
 				stationary_contraption = true
+				package = true
 				contraption = true
 				gantry_contraption = true
 				super_glue = true
