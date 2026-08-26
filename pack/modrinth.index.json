@@ -1322,19 +1322,6 @@
 			}
 		},
 		{
-			"path": "mods/megane-fabric-20.1.2.jar",
-			"env": {
-				"client": "required",
-				"server": "required"
-			},
-			"downloads": ["https://cdn.modrinth.com/data/ZNk5S5U6/versions/oGKLI8RF/megane-fabric-20.1.2.jar"],
-			"fileSize": 92722,
-			"hashes": {
-				"sha1": "95514294bad07fd977eac9faaa5997c4961810bd",
-				"sha512": "b61156cb403a73883ad2f574dd372ec087bbf2ae22a0de03dc2ee4af4ed9bf29fd328833c83f83ed84162028d1531e59320fe685f8b47e64f80cd41cce28b4db"
-			}
-		},
-		{
 			"path": "mods/mod-loading-screen-1.0.5.jar",
 			"env": {
 				"client": "required",
