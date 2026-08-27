@@ -1,0 +1,20 @@
+{
+	"providers": [
+		{
+			"type": "reference",
+			"id": "goob_sink:custom_characters"
+		},
+		{
+			"type": "reference",
+			"id": "minecraft:include/space"
+		},
+		{
+			"type": "reference",
+			"id": "minecraft:include/default"
+		},
+		{
+			"type": "reference",
+			"id": "minecraft:include/unifont"
+		}
+	]
+}

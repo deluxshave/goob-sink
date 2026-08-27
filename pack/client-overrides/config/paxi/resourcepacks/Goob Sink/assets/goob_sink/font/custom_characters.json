@@ -1,0 +1,11 @@
+{
+	"providers": [
+		{
+			"type": "bitmap",
+			"file": "goob_sink:font/chick.png",
+			"height": 32,
+			"ascent": 16,
+			"chars": ["\uE000"]
+		}
+	]
+}
